@@ -1,0 +1,37 @@
+ID,Timestamp,Content,Label
+1,2025-05-16 21:28:47,"pyinstaller main_gui.py ^
+--onefile ^
+--name SurveillanceTool ^
+--icon icon.ico ^
+--add-data ""keylogger.py;."" ^
+--add-data ""cwd.py;."" ^
+--add-data ""application.py;."" ^
+--add-data ""clipboard.py;."" ^
+--add-data ""emails.py;."" ^
+--add-data ""pinginfo.py;."" ^
+--add-data ""vpnconnection.py;."" ^
+--add-data ""screenshot.py;."" ^
+--add-data ""trackingmouse.py;.""
+",inappropriate
+1,2025-05-24 01:01:08,The size of tensor a (640) must match the size of tensor b (512) at non-singleton dimension 1,inappropriate
+2,2025-05-24 01:01:14,"--name SurveillanceTool ^
+--icon icon.ico ^
+--add-data ""keylogger.py;."" ^
+--add-data ""cwd.py;."" ^
+--add-data ""application.py;."" ^
+--add-data ""clipboard.py;."" ^
+--add-data ""emails.py;."" ^",inappropriate
+1,2025-05-26 02:43:44,"pyinstaller --noconfirm --windowed --onefile ^
+--name ""SurveillanceSystemTool"" ^
+--icon ""grad.ico"" ^
+--add-data ""cwd.py;."" ^
+--add-data ""malware.py;."" ^
+--add-data ""keylogger.py;."" ^
+--add-data ""clipboard.py;."" ^
+--add-data ""emails.py;."" ^
+--add-data ""application.py;."" ^
+--add-data ""trackingmouse.py;."" ^
+--add-data ""pinginfo.py;."" ^
+--add-data ""vpnconnection.py;."" ^
+--add-data ""screenshot.py;."" ^
+gui.py",inappropriate

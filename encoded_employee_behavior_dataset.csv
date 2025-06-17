@@ -1,0 +1,501 @@
+sentence,label,label_encoded
+Thinking about leaking data,inappropriate,0
+Should we sell this data?,inappropriate,0
+I'll send the report shortly,normal,2
+Attended a talk on ethical hacking,neutral,1
+Meeting at 5 pm,normal,2
+Finished the monthly summary,normal,2
+Please review the latest financials,normal,2
+Disabling antivirus to test a tool,inappropriate,0
+Reminder: client call tomorrow,normal,2
+Let’s wrap this up before EOD,normal,2
+I'll be working remotely today,normal,2
+Should we sell this data?,inappropriate,0
+Learning how to spot social engineering,neutral,1
+Lunch break at 1 pm,normal,2
+Let’s wrap this up before EOD,normal,2
+Reading about cybersecurity threats,neutral,1
+Let’s wrap this up before EOD,normal,2
+Lunch break at 1 pm,normal,2
+Attended a talk on ethical hacking,neutral,1
+Curious about how ransomware spreads,neutral,1
+Can you update the task list?,normal,2
+Wondering how keyloggers work,neutral,1
+Lunch break at 1 pm,normal,2
+Reading about cybersecurity threats,neutral,1
+I want to learn malware analysis,neutral,1
+Lunch break at 1 pm,normal,2
+I'll be working remotely today,normal,2
+Please review the latest financials,normal,2
+Attended a talk on ethical hacking,neutral,1
+I'll be working remotely today,normal,2
+I'll delete some logs later,inappropriate,0
+Need a mental health day,neutral,1
+Finished the monthly summary,normal,2
+I'll be working remotely today,normal,2
+Should we sell this data?,inappropriate,0
+Let’s bring the system down,inappropriate,0
+Should we sell this data?,inappropriate,0
+Learning how to spot social engineering,neutral,1
+Can you update the task list?,normal,2
+Lunch break at 1 pm,normal,2
+Please review the latest financials,normal,2
+I'll be working remotely today,normal,2
+Planning to bypass system controls,inappropriate,0
+Meeting at 5 pm,normal,2
+Studying penetration testing methods,neutral,1
+I'll send the report shortly,normal,2
+Finished the monthly summary,normal,2
+Finished the monthly summary,normal,2
+I want to learn malware analysis,neutral,1
+"This company sucks, want to sabotage it",inappropriate,0
+Meeting at 5 pm,normal,2
+Let’s wrap this up before EOD,normal,2
+"Burned out lately, might take a day off",neutral,1
+Team meeting has been moved to 3 pm,normal,2
+Need a mental health day,neutral,1
+Lunch break at 1 pm,normal,2
+Let’s wrap this up before EOD,normal,2
+I'll be working remotely today,normal,2
+Planning to bypass system controls,inappropriate,0
+Finished the monthly summary,normal,2
+Reminder: client call tomorrow,normal,2
+I'll send the report shortly,normal,2
+Please review the latest financials,normal,2
+Let’s wrap this up before EOD,normal,2
+Please review the latest financials,normal,2
+Need a mental health day,neutral,1
+Lunch break at 1 pm,normal,2
+Can you update the task list?,normal,2
+I'll be working remotely today,normal,2
+Meeting at 5 pm,normal,2
+I'll send the report shortly,normal,2
+I'll send the report shortly,normal,2
+Curious about how ransomware spreads,neutral,1
+Meeting at 5 pm,normal,2
+Reading about cybersecurity threats,neutral,1
+Please review the latest financials,normal,2
+Wondering how keyloggers work,neutral,1
+Finished the monthly summary,normal,2
+I want to learn malware analysis,neutral,1
+Curious about how ransomware spreads,neutral,1
+Reminder: client call tomorrow,normal,2
+I was reading about phishing attacks,neutral,1
+Attended a talk on ethical hacking,neutral,1
+I want to learn malware analysis,neutral,1
+Can you update the task list?,normal,2
+I'll be working remotely today,normal,2
+Can you update the task list?,normal,2
+Let’s bring the system down,inappropriate,0
+Lunch break at 1 pm,normal,2
+I'll send the report shortly,normal,2
+Planning to bypass system controls,inappropriate,0
+Planning to bypass system controls,inappropriate,0
+Reading about cybersecurity threats,neutral,1
+I'll be working remotely today,normal,2
+Disabling antivirus to test a tool,inappropriate,0
+Please review the latest financials,normal,2
+Can you update the task list?,normal,2
+Please review the latest financials,normal,2
+Thinking about leaking data,inappropriate,0
+"Boss is an idiot, let's prank him",inappropriate,0
+Studying penetration testing methods,neutral,1
+Lunch break at 1 pm,normal,2
+Meeting at 5 pm,normal,2
+Need a mental health day,neutral,1
+Wondering how keyloggers work,neutral,1
+Finished the monthly summary,normal,2
+Let’s wrap this up before EOD,normal,2
+Can you update the task list?,normal,2
+Lunch break at 1 pm,normal,2
+Can you update the task list?,normal,2
+I want to learn malware analysis,neutral,1
+"This company sucks, want to sabotage it",inappropriate,0
+I was reading about phishing attacks,neutral,1
+"This company sucks, want to sabotage it",inappropriate,0
+Let’s wrap this up before EOD,normal,2
+Reminder: client call tomorrow,normal,2
+Meeting at 5 pm,normal,2
+Please review the latest financials,normal,2
+Meeting at 5 pm,normal,2
+Please review the latest financials,normal,2
+Can you update the task list?,normal,2
+I'll be working remotely today,normal,2
+I was reading about phishing attacks,neutral,1
+Finished the monthly summary,normal,2
+Let's hack the company server,inappropriate,0
+Reminder: client call tomorrow,normal,2
+I want to learn malware analysis,neutral,1
+Meeting at 5 pm,normal,2
+Reading about cybersecurity threats,neutral,1
+Studying penetration testing methods,neutral,1
+Reminder: client call tomorrow,normal,2
+Disabling antivirus to test a tool,inappropriate,0
+Can you update the task list?,normal,2
+Finished the monthly summary,normal,2
+Can you update the task list?,normal,2
+I'll be working remotely today,normal,2
+Reading about cybersecurity threats,neutral,1
+Learning how to spot social engineering,neutral,1
+Learning how to spot social engineering,neutral,1
+Need a mental health day,neutral,1
+Team meeting has been moved to 3 pm,normal,2
+Learning how to spot social engineering,neutral,1
+Studying penetration testing methods,neutral,1
+"This company sucks, want to sabotage it",inappropriate,0
+Reading about cybersecurity threats,neutral,1
+"Boss is an idiot, let's prank him",inappropriate,0
+"Burned out lately, might take a day off",neutral,1
+Team meeting has been moved to 3 pm,normal,2
+Reminder: client call tomorrow,normal,2
+Lunch break at 1 pm,normal,2
+Wondering how keyloggers work,neutral,1
+Please review the latest financials,normal,2
+Can you update the task list?,normal,2
+Finished the monthly summary,normal,2
+Team meeting has been moved to 3 pm,normal,2
+I'll be working remotely today,normal,2
+I'll be working remotely today,normal,2
+Please review the latest financials,normal,2
+Reading about cybersecurity threats,neutral,1
+Curious about how ransomware spreads,neutral,1
+Let’s wrap this up before EOD,normal,2
+I'll send the report shortly,normal,2
+Curious about how ransomware spreads,neutral,1
+Planning to bypass system controls,inappropriate,0
+Reading about cybersecurity threats,neutral,1
+Lunch break at 1 pm,normal,2
+Reminder: client call tomorrow,normal,2
+I'll be working remotely today,normal,2
+Attended a talk on ethical hacking,neutral,1
+Let’s wrap this up before EOD,normal,2
+Can you update the task list?,normal,2
+Meeting at 5 pm,normal,2
+Learning how to spot social engineering,neutral,1
+I want to perform malware,inappropriate,0
+"Boss is an idiot, let's prank him",inappropriate,0
+Let’s wrap this up before EOD,normal,2
+Please review the latest financials,normal,2
+Can you update the task list?,normal,2
+Reminder: client call tomorrow,normal,2
+Finished the monthly summary,normal,2
+Lunch break at 1 pm,normal,2
+I'll be working remotely today,normal,2
+Finished the monthly summary,normal,2
+I'll send the report shortly,normal,2
+Finished the monthly summary,normal,2
+Finished the monthly summary,normal,2
+Let’s wrap this up before EOD,normal,2
+Finished the monthly summary,normal,2
+Finished the monthly summary,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Reading about cybersecurity threats,neutral,1
+Can you update the task list?,normal,2
+Reading about cybersecurity threats,neutral,1
+Disabling antivirus to test a tool,inappropriate,0
+I was reading about phishing attacks,neutral,1
+Reading about cybersecurity threats,neutral,1
+Reading about cybersecurity threats,neutral,1
+Reminder: client call tomorrow,normal,2
+Let’s wrap this up before EOD,normal,2
+Let’s wrap this up before EOD,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Finished the monthly summary,normal,2
+I was reading about phishing attacks,neutral,1
+Let’s wrap this up before EOD,normal,2
+I'll be working remotely today,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Let’s wrap this up before EOD,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Curious about how ransomware spreads,neutral,1
+Let’s bring the system down,inappropriate,0
+Need a mental health day,neutral,1
+Planning to bypass system controls,inappropriate,0
+Please review the latest financials,normal,2
+Meeting at 5 pm,normal,2
+Lunch break at 1 pm,normal,2
+Reminder: client call tomorrow,normal,2
+Let’s wrap this up before EOD,normal,2
+Finished the monthly summary,normal,2
+Team meeting has been moved to 3 pm,normal,2
+"Burned out lately, might take a day off",neutral,1
+I was reading about phishing attacks,neutral,1
+I'll delete some logs later,inappropriate,0
+Curious about how ransomware spreads,neutral,1
+Reading about cybersecurity threats,neutral,1
+Team meeting has been moved to 3 pm,normal,2
+I'll be working remotely today,normal,2
+Reminder: client call tomorrow,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Reminder: client call tomorrow,normal,2
+Reading about cybersecurity threats,neutral,1
+Reminder: client call tomorrow,normal,2
+Finished the monthly summary,normal,2
+I'll be working remotely today,normal,2
+Can you update the task list?,normal,2
+Wondering how keyloggers work,neutral,1
+Attended a talk on ethical hacking,neutral,1
+Attended a talk on ethical hacking,neutral,1
+Reminder: client call tomorrow,normal,2
+Lunch break at 1 pm,normal,2
+Finished the monthly summary,normal,2
+Let’s wrap this up before EOD,normal,2
+Learning how to spot social engineering,neutral,1
+"Burned out lately, might take a day off",neutral,1
+Let’s wrap this up before EOD,normal,2
+Meeting at 5 pm,normal,2
+I want to perform malware,inappropriate,0
+Need a mental health day,neutral,1
+Studying penetration testing methods,neutral,1
+Thinking about leaking data,inappropriate,0
+Please review the latest financials,normal,2
+Learning how to spot social engineering,neutral,1
+Attended a talk on ethical hacking,neutral,1
+Finished the monthly summary,normal,2
+Please review the latest financials,normal,2
+I'll send the report shortly,normal,2
+Lunch break at 1 pm,normal,2
+I want to learn malware analysis,neutral,1
+I'll be working remotely today,normal,2
+Lunch break at 1 pm,normal,2
+Attended a talk on ethical hacking,neutral,1
+Reading about cybersecurity threats,neutral,1
+Thinking about leaking data,inappropriate,0
+Studying penetration testing methods,neutral,1
+Lunch break at 1 pm,normal,2
+"Burned out lately, might take a day off",neutral,1
+Please review the latest financials,normal,2
+Reminder: client call tomorrow,normal,2
+Please review the latest financials,normal,2
+I was reading about phishing attacks,neutral,1
+Reading about cybersecurity threats,neutral,1
+Please review the latest financials,normal,2
+Lunch break at 1 pm,normal,2
+Reading about cybersecurity threats,neutral,1
+Team meeting has been moved to 3 pm,normal,2
+Lunch break at 1 pm,normal,2
+Reminder: client call tomorrow,normal,2
+I'll delete some logs later,inappropriate,0
+I'll be working remotely today,normal,2
+Can you update the task list?,normal,2
+Planning to bypass system controls,inappropriate,0
+Let’s wrap this up before EOD,normal,2
+Reading about cybersecurity threats,neutral,1
+I'll send the report shortly,normal,2
+Meeting at 5 pm,normal,2
+Lunch break at 1 pm,normal,2
+Let’s bring the system down,inappropriate,0
+Need a mental health day,neutral,1
+Curious about how ransomware spreads,neutral,1
+Reminder: client call tomorrow,normal,2
+Planning to bypass system controls,inappropriate,0
+Thinking about leaking data,inappropriate,0
+Finished the monthly summary,normal,2
+Lunch break at 1 pm,normal,2
+Can you update the task list?,normal,2
+Learning how to spot social engineering,neutral,1
+Disabling antivirus to test a tool,inappropriate,0
+Reminder: client call tomorrow,normal,2
+Can you update the task list?,normal,2
+Finished the monthly summary,normal,2
+I'll send the report shortly,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Finished the monthly summary,normal,2
+Can you update the task list?,normal,2
+Can you update the task list?,normal,2
+Attended a talk on ethical hacking,neutral,1
+Meeting at 5 pm,normal,2
+Lunch break at 1 pm,normal,2
+I'll send the report shortly,normal,2
+Need a mental health day,neutral,1
+Lunch break at 1 pm,normal,2
+Curious about how ransomware spreads,neutral,1
+Need a mental health day,neutral,1
+Reminder: client call tomorrow,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Please review the latest financials,normal,2
+Can you update the task list?,normal,2
+Meeting at 5 pm,normal,2
+I'll be working remotely today,normal,2
+Reading about cybersecurity threats,neutral,1
+I want to learn malware analysis,neutral,1
+Let’s wrap this up before EOD,normal,2
+Let’s wrap this up before EOD,normal,2
+Let’s wrap this up before EOD,normal,2
+Curious about how ransomware spreads,neutral,1
+I'll be working remotely today,normal,2
+Lunch break at 1 pm,normal,2
+Curious about how ransomware spreads,neutral,1
+I'll be working remotely today,normal,2
+"This company sucks, want to sabotage it",inappropriate,0
+I'll send the report shortly,normal,2
+Please review the latest financials,normal,2
+Meeting at 5 pm,normal,2
+Can you update the task list?,normal,2
+I'll send the report shortly,normal,2
+Can you update the task list?,normal,2
+Finished the monthly summary,normal,2
+Learning how to spot social engineering,neutral,1
+Reminder: client call tomorrow,normal,2
+Please review the latest financials,normal,2
+Please review the latest financials,normal,2
+Wondering how keyloggers work,neutral,1
+Curious about how ransomware spreads,neutral,1
+"Boss is an idiot, let's prank him",inappropriate,0
+Meeting at 5 pm,normal,2
+Learning how to spot social engineering,neutral,1
+Meeting at 5 pm,normal,2
+Meeting at 5 pm,normal,2
+Reminder: client call tomorrow,normal,2
+Reading about cybersecurity threats,neutral,1
+Wondering how keyloggers work,neutral,1
+Lunch break at 1 pm,normal,2
+I want to learn malware analysis,neutral,1
+I'll send the report shortly,normal,2
+Meeting at 5 pm,normal,2
+Can you update the task list?,normal,2
+Studying penetration testing methods,neutral,1
+Reminder: client call tomorrow,normal,2
+Lunch break at 1 pm,normal,2
+Please review the latest financials,normal,2
+Attended a talk on ethical hacking,neutral,1
+Let’s wrap this up before EOD,normal,2
+Can you update the task list?,normal,2
+Planning to bypass system controls,inappropriate,0
+Finished the monthly summary,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Meeting at 5 pm,normal,2
+Attended a talk on ethical hacking,neutral,1
+Learning how to spot social engineering,neutral,1
+I was reading about phishing attacks,neutral,1
+I'll be working remotely today,normal,2
+Lunch break at 1 pm,normal,2
+Reminder: client call tomorrow,normal,2
+Let’s wrap this up before EOD,normal,2
+Please review the latest financials,normal,2
+I'll be working remotely today,normal,2
+Reminder: client call tomorrow,normal,2
+"Burned out lately, might take a day off",neutral,1
+I was reading about phishing attacks,neutral,1
+Please review the latest financials,normal,2
+Please review the latest financials,normal,2
+Studying penetration testing methods,neutral,1
+Reminder: client call tomorrow,normal,2
+I'll be working remotely today,normal,2
+Meeting at 5 pm,normal,2
+I'll be working remotely today,normal,2
+"Boss is an idiot, let's prank him",inappropriate,0
+I'll be working remotely today,normal,2
+Lunch break at 1 pm,normal,2
+Meeting at 5 pm,normal,2
+Thinking about leaking data,inappropriate,0
+Meeting at 5 pm,normal,2
+Wondering how keyloggers work,neutral,1
+"Burned out lately, might take a day off",neutral,1
+I'll be working remotely today,normal,2
+Reading about cybersecurity threats,neutral,1
+I want to learn malware analysis,neutral,1
+Can you update the task list?,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Curious about how ransomware spreads,neutral,1
+I'll send the report shortly,normal,2
+I'll send the report shortly,normal,2
+I'll delete some logs later,inappropriate,0
+I'll be working remotely today,normal,2
+I was reading about phishing attacks,neutral,1
+Wondering how keyloggers work,neutral,1
+Thinking about leaking data,inappropriate,0
+Team meeting has been moved to 3 pm,normal,2
+Meeting at 5 pm,normal,2
+Reading about cybersecurity threats,neutral,1
+Wondering how keyloggers work,neutral,1
+I'll be working remotely today,normal,2
+Lunch break at 1 pm,normal,2
+"Burned out lately, might take a day off",neutral,1
+I'll delete some logs later,inappropriate,0
+Learning how to spot social engineering,neutral,1
+Curious about how ransomware spreads,neutral,1
+Curious about how ransomware spreads,neutral,1
+Reminder: client call tomorrow,normal,2
+Let’s wrap this up before EOD,normal,2
+Lunch break at 1 pm,normal,2
+I'll send the report shortly,normal,2
+Let’s wrap this up before EOD,normal,2
+I was reading about phishing attacks,neutral,1
+I was reading about phishing attacks,neutral,1
+Can you update the task list?,normal,2
+"Burned out lately, might take a day off",neutral,1
+Lunch break at 1 pm,normal,2
+I'll send the report shortly,normal,2
+I want to learn malware analysis,neutral,1
+Finished the monthly summary,normal,2
+Team meeting has been moved to 3 pm,normal,2
+I want to perform malware,inappropriate,0
+I'll send the report shortly,normal,2
+I was reading about phishing attacks,neutral,1
+Can you update the task list?,normal,2
+Wondering how keyloggers work,neutral,1
+Team meeting has been moved to 3 pm,normal,2
+Can you update the task list?,normal,2
+Can you update the task list?,normal,2
+Can you update the task list?,normal,2
+Reading about cybersecurity threats,neutral,1
+Let’s wrap this up before EOD,normal,2
+Reading about cybersecurity threats,neutral,1
+I'll be working remotely today,normal,2
+I'll be working remotely today,normal,2
+Let’s bring the system down,inappropriate,0
+Reading about cybersecurity threats,neutral,1
+Meeting at 5 pm,normal,2
+Can you update the task list?,normal,2
+Meeting at 5 pm,normal,2
+Wondering how keyloggers work,neutral,1
+Reading about cybersecurity threats,neutral,1
+I'll be working remotely today,normal,2
+Planning to bypass system controls,inappropriate,0
+I'll send the report shortly,normal,2
+I'll send the report shortly,normal,2
+"Burned out lately, might take a day off",neutral,1
+Please review the latest financials,normal,2
+"Boss is an idiot, let's prank him",inappropriate,0
+Can you update the task list?,normal,2
+Disabling antivirus to test a tool,inappropriate,0
+Planning to bypass system controls,inappropriate,0
+Finished the monthly summary,normal,2
+Lunch break at 1 pm,normal,2
+Can you update the task list?,normal,2
+Reminder: client call tomorrow,normal,2
+Can you update the task list?,normal,2
+Planning to bypass system controls,inappropriate,0
+Let’s bring the system down,inappropriate,0
+Let's hack the company server,inappropriate,0
+Reminder: client call tomorrow,normal,2
+Finished the monthly summary,normal,2
+Should we sell this data?,inappropriate,0
+I'll be working remotely today,normal,2
+I was reading about phishing attacks,neutral,1
+Can you update the task list?,normal,2
+Wondering how keyloggers work,neutral,1
+Team meeting has been moved to 3 pm,normal,2
+Meeting at 5 pm,normal,2
+Let’s wrap this up before EOD,normal,2
+I'll be working remotely today,normal,2
+Team meeting has been moved to 3 pm,normal,2
+Finished the monthly summary,normal,2
+Finished the monthly summary,normal,2
+Finished the monthly summary,normal,2
+I'll be working remotely today,normal,2
+Please review the latest financials,normal,2
+I'll send the report shortly,normal,2
+Let’s wrap this up before EOD,normal,2
+I'll send the report shortly,normal,2
+Let’s wrap this up before EOD,normal,2
+I'll be working remotely today,normal,2
+Lunch break at 1 pm,normal,2
+"This company sucks, want to sabotage it",inappropriate,0
+Curious about how ransomware spreads,neutral,1
+Can you update the task list?,normal,2
+Let’s wrap this up before EOD,normal,2
+Can you update the task list?,normal,2
+I want to learn malware analysis,neutral,1
+Lunch break at 1 pm,normal,2
