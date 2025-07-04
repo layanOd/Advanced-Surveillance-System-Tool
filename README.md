@@ -38,7 +38,7 @@ No special config required. Just ensure internet access for malware API.
 ## Examples
 <html>
 <video width="600" controls>
-  <source src="final_project.mp4" type="video/mp4">
+  <source src="/my-docs/final_project.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </html>
