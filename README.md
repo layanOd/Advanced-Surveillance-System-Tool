@@ -35,14 +35,6 @@ python gui.py
 
 No special config required. Just ensure internet access for malware API.
 
-## Examples
-<html>
-<video width="600" controls>
-  <source src="/my-docs/final_project.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</html>
-
 ## Known Issues
 
 - Malware API may not detect hashes if the sample is not in the public database.
