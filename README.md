@@ -1,6 +1,6 @@
 # Advanced Surveillance System Tool
 
-> This project tracks employee activity using various monitoring tools.
+> This project tracks user activity using various monitoring tools.
 
 ## Features
 
